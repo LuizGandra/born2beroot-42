@@ -12,6 +12,8 @@
 ## Bonus
 **The bonus has three requirements:**
 - [x] Set up partitions manually as follows:
+
 ![image](https://github.com/user-attachments/assets/8764daa3-3089-424b-a211-fab9a5c39394)
+
 - [x] Set up a functional WordPress website with the following services: lighttpd, MariaDB and PHP
 - [x] Set up a service of your choice that you think is useful (NGINX / Apache2 excluded)
