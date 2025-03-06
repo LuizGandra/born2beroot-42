@@ -26,6 +26,8 @@ Born2beroot requires setting up a virtual machine from scratch with a chosen ope
   - Set up a functional WordPress website with lighttpd, MariaDB and PHP.
   - Set up a service of your choice (NGINX / Apache2 excluded). I chose LiteSpeed.
 
+![image](https://github.com/user-attachments/assets/986823de-c401-4faa-8460-6332762072a3)
+
 ### Restrictions
 
 - No graphical interface permitted; all configuration via command line.
